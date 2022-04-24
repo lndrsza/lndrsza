@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lndrsza?tab=repositories](https://github.com/lndrsza?tab=repositories)
 
-- 💬 Ask me about **Everything that comes on your mind**
+- 💬 Ask me about **everything that comes on your mind**
 
 - 📫 How to reach me **lndrsza@gmail.com**
 
